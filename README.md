@@ -2,21 +2,23 @@
 
 ### Software Development · ITMO University
 
-*Learning to build things that last.*
+*Learning as I go. Building along the way.*
 
 ---
 
-# Description
+## Description
 
-Red, White, Black
+**Red. White. Black.**
 
-Forward to the stars
+*Forward to the stars.*
 
-## Tools of the Trade
+A computer science student exploring code, algorithms, and software development.
 
-![Python](https://img.shields.io/badge/Python-303030?style=flat-square&logo=python&logoColor=B0B0B0)
-![C++](https://img.shields.io/badge/C%2B%2B-303030?style=flat-square&logo=cplusplus&logoColor=B0B0B0)
-![Git](https://img.shields.io/badge/Git-303030?style=flat-square&logo=git&logoColor=B0B0B0)
+## Technologies
+
+![Python](https://img.shields.io/badge/Python-252525?style=flat-square&logo=python&logoColor=C9C9C9)
+![C++](https://img.shields.io/badge/C%2B%2B-252525?style=flat-square&logo=cplusplus&logoColor=C9C9C9)
+![Git](https://img.shields.io/badge/Git-252525?style=flat-square&logo=git&logoColor=C9C9C9)
 
 | Technology | Focus |
 |:---|:---|
@@ -24,11 +26,11 @@ Forward to the stars
 | C++ | Algorithms and data structures |
 | Git | Version control |
 
-## Current Studies
+## Currently Learning
 
 - Algorithms and data structures
-- Software engineering fundamentals
-- Writing more reliable code
+- Software engineering
+- Writing cleaner code
 
 ## A Small Experiment
 
@@ -42,12 +44,10 @@ def seek_knowledge():
 
 ## GitHub Records
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nonjine&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=9A8C7A&text_color=B8B2A7&icon_color=9A8C7A)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nonjine&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=B84A4A&text_color=C4C4C4&icon_color=B84A4A)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nonjine&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=9A8C7A&text_color=B8B2A7)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nonjine&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=B84A4A&text_color=C4C4C4)
 
 ---
 
-> Every craft begins in darkness, with the patience to understand.
-
-<sub>Still learning. Still building.</sub>
+<sub>Still figuring things out.</sub>
