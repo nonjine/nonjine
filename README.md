@@ -1,42 +1,48 @@
-# Rayzen
+<h1 align="center">Rayzen</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/06/6f/a2/066fa2cb37aa563522fa6c1f0760d172.jpg" width="700" alt="Profile banner">
+  <img
+    src="https://i.pinimg.com/1200x/06/6f/a2/066fa2cb37aa563522fa6c1f0760d172.jpg"
+    width="800"
+    alt="Profile banner"
+  />
 </p>
 
-<p align="center"><i>Somewhere between curiosity and creation.</i></p>
+<p align="center">
+  <em>Somewhere between curiosity and creation.</em>
+</p>
 
-### Software Development · ITMO University
+<p align="center">
+  Software Development · ITMO University
+</p>
 
-*Forward to the stars.*
+<p align="center">
+  <em>Forward to the stars.</em>
+</p>
 
 ---
 
-## Description
+## About
 
-**Red. White. Black.**
+A computer science student learning to turn ideas into working software.
 
-A computer science student exploring code, algorithms, and software development.
+<p align="center">
+  <strong>RED · WHITE · BLACK</strong>
+</p>
 
 ## Technologies
 
-![Python](https://img.shields.io/badge/Python-252525?style=flat-square&logo=python&logoColor=C9C9C9)
-![C++](https://img.shields.io/badge/C%2B%2B-252525?style=flat-square&logo=cplusplus&logoColor=C9C9C9)
-![Git](https://img.shields.io/badge/Git-252525?style=flat-square&logo=git&logoColor=C9C9C9)
+<p>
+  <img src="https://img.shields.io/badge/Python-252525?style=flat-square&logo=python&logoColor=C9C9C9" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-252525?style=flat-square&logo=cplusplus&logoColor=C9C9C9" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-252525?style=flat-square&logo=git&logoColor=C9C9C9" alt="Git" />
+</p>
 
-| Technology | Focus |
-|:---|:---|
-| Python | Fundamentals and problem solving |
-| C++ | Algorithms and data structures |
-| Git | Version control |
+## Currently Exploring
 
-## Currently Learning
+`Algorithms & Data Structures` · `Problem Solving` · `Software Design`
 
-- Algorithms and data structures
-- Software engineering
-- Writing cleaner code
-
-## A Small Experiment
+## A Small Reminder
 
 ```python
 def seek_knowledge():
@@ -44,14 +50,3 @@ def seek_knowledge():
         study()
         practice()
         improve()
-```
-
-## GitHub Records
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nonjine&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=B84A4A&text_color=C4C4C4&icon_color=B84A4A)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nonjine&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=B84A4A&text_color=C4C4C4)
-
----
-
-<sub>Still figuring things out.</sub>
