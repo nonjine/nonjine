@@ -6,11 +6,11 @@
 
 ---
 
-## The Craft
+## Description
 
-I'm a student exploring software development, algorithms, and computer science.
+Red, White, Black
 
-I value **clean code**, *careful thinking*, and ***constant improvement*** over shortcuts.
+Forward to the stars
 
 ## Tools of the Trade
 
