@@ -42,9 +42,9 @@ def seek_knowledge():
 
 ## GitHub Records
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=9A8C7A&text_color=B8B2A7&icon_color=9A8C7A)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nonjine&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=9A8C7A&text_color=B8B2A7&icon_color=9A8C7A)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=9A8C7A&text_color=B8B2A7)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nonjine&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=9A8C7A&text_color=B8B2A7)
 
 ---
 
