@@ -7,15 +7,13 @@
 
 ### Software Development · ITMO University
 
-*Learning as I go. Building along the way.*
+*Forward to the stars.*
 
 ---
 
 ## Description
 
 **Red. White. Black.**
-
-*Forward to the stars.*
 
 A computer science student exploring code, algorithms, and software development.
 
