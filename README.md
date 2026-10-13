@@ -4,6 +4,7 @@
   <img src="https://i.pinimg.com/1200x/06/6f/a2/066fa2cb37aa563522fa6c1f0760d172.jpg" width="700" alt="Profile banner">
 </p>
 
+<p align="center"><i>Somewhere between curiosity and creation.</i></p>
 
 ### Software Development · ITMO University
 
